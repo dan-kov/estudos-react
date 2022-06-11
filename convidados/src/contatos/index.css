@@ -1,0 +1,12 @@
+.full-width{
+    width: 98%;
+    height: 95%;
+    margin-top: 0.4em;
+    margin-bottom: 0.4em;
+    margin-left: 0.2em;
+    margin-right: 0.2em;    
+}
+
+.error-msg{
+    color: red;
+}

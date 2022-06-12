@@ -2,11 +2,15 @@
 
 Objetivo: Informação de nome e localização (latitude e longitude) de Usuário e da Companhia. Abrir um mapa com a localização dos 2 pontos. 
 
-## Dados de usuário, companhia e localização gerados usando FAKER
+## Dados de usuário, companhia e localização gerados usando FAKER, acessando api Google Maps
 
-#### Instalação
+#### Instalação faker
     npm install faker@5.5.3    
     npm install @types/faker@5.5.9
+
+#### Google maps api
+    npm install @types/google.maps
+
 
 **_Type Definition File_**: _Adapter_ para bibliotecas Javascript: dizem ao compilador TypeScript os tipos de retorno das bibliotecas JavaScript
 Algumas bibliotecas já possuem as definições de tipo, ex. Axios

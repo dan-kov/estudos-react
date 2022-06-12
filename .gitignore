@@ -1,4 +1,4 @@
-typescript/maps/.cache/00/2a30cbe90a750c8afb98e9d2d4b7a6.json
+typescript/maps/.cache/*
 typescript/maps/.cache/00/3a401c2b6eb8200c6dd71fbe140fab.json
 typescript/maps/.cache/00/09bb8771c06ce26934f5b7805df827.json
 typescript/maps/.cache/00/736b9595cfb7af4df4f2ea7b007941.json
@@ -1505,13 +1505,13 @@ typescript/maps/.cache/ff/53227550def1cf546a856de46e397c.json
 typescript/maps/.cache/ff/b0f2e36f4137858d6ea9bda65f099c.json
 typescript/maps/.cache/ff/dd609428c3fada54417898197a2651.json
 typescript/maps/.cache/ff/fff659287c029d00e5f27f1bcc70af.json
-typescript/maps/node_modules/.package-lock.json
+typescript/maps/node_modules/*
 typescript/maps/node_modules/@types/google.maps/index.d.ts
 typescript/maps/node_modules/@types/google.maps/LICENSE
 typescript/maps/node_modules/@types/google.maps/package.json
 typescript/maps/node_modules/@types/google.maps/README.md
 typescript/maps/node_modules/.package-lock.json
-typescript/maps/dist/index.html
+typescript/maps/dist/*
 typescript/maps/dist/src.f10117fe.js
 typescript/maps/dist/src.f10117fe.js.map
 typescript/maps/package-lock.json
